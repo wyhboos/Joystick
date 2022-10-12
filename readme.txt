@@ -1,0 +1,2 @@
+joystick_test.cpp 文件用于读取joystick的信息，按键可以按需扩展到32位；
+注意：适用于windows系统，需要链接winmm.lib
